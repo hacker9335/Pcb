@@ -7,6 +7,6 @@ made the app for the shipyard week one challenge and got the idea as i was worki
 
 playable link : https://gerber.streamlit.app/
 
-<img width="395" height="573" alt="image" src="https://github.com/user-attachments/assets/06420259-978a-4ce3-8aae-56d3b9904cf6" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/fd23f84e-17a6-4a86-b172-0be81cdd307e" />
 
-<img width="927" height="773" alt="image" src="https://github.com/user-attachments/assets/cf2933b4-386f-4f78-8d4d-b4f24d7960a8" />
+<img width="395" height="573" alt="image" src="https://github.com/user-attachments/assets/56433598-eb4a-4bb2-9f52-bb5020ba227f" />
